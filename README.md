@@ -4,4 +4,4 @@ Portifólio do desenvolvedor
 
 ##
 
-O controle dasa tarefas desse projeto será realizado no GitHub
+O controle das tarefas desse projeto será realizado no GitHub
